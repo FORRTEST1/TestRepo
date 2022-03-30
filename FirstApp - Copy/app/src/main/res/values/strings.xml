@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="bye_string">Bye world!</string>
+    <string name="student_name">Student name</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="cse_110">CSE 110</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="spring_2022">Spring 2022</string>
+    <string name="show">show</string>
+    <string name="hide">hide</string>
+</resources>
